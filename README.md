@@ -1,6 +1,6 @@
 # Hi there, I'm Ankur Gupta! 👋
 
-Welcome to my GitHub profile! I'm a student pursuing M.Tech in Computer Science at JITT. I'm passionate about web development and have expertise in various technologies.
+Welcome to my GitHub profile! I'm a student pursuing M.Tech in Computer Science at JIIT. I'm passionate about web development and have expertise in various technologies.
 
 ## About Me
 
