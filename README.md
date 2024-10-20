@@ -46,10 +46,6 @@ Here are some of my projects:
 - **Description:** A web application to search and display movie information using The Movie Database (TMDb) API.
 - **Tech stack:** React.js, TMDb API
 
-### Job Advertisement Poster Generator
-
-- **Description:** An application to generate job advertisement posters in PDF format with customizable templates.
-- **Tech stack:** React.js, PDF generation libraries
 
 ### Flask User Authentication App
 
